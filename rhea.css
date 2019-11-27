@@ -1,0 +1,30 @@
+ 
+body
+{
+background-color:pink;
+}
+
+
+.nav{
+
+  margin: 10px;
+  padding: -20px;
+  font-size: 30px;
+display:flex;
+text-align:center;
+background-color:#649064;
+}
+
+a{text-decoration:none;
+margin:5%;
+  flex-wrap: nowrap;
+color:#fff;
+
+padding:12px 10px 12px 10px;
+}
+.nav a:hover
+{
+color:black;
+
+}
+
